@@ -4,26 +4,154 @@
     <meta charset="UTF-8">
     <title>AI ML Engineer Roadmap 2026</title>
     <style>
-        body { font-family: sans-serif; background: #f4f7f6; padding: 20px; color: #333; }
-        .main-box { background: white; border: 2px solid #2e7d32; border-radius: 8px; margin: 15px 0; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        .main-title { font-size: 22px; font-weight: bold; color: #2e7d32; cursor: pointer; outline: none; }
-        .sub-box { background: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 6px; margin: 10px 0; padding: 12px; }
-        .sub-title { font-size: 16px; font-weight: bold; color: #1b5e20; cursor: pointer; outline: none; }
-        .links-list { list-style-type: none; padding-left: 10px; margin: 8px 0 0 0; }
-        .links-list li { margin: 8px 0; font-size: 14px; font-weight: bold; }
-        .item-row { margin-left: 15px; font-weight: normal; margin-top: 4px; margin-bottom: 12px; }
-        a { color: #1565c0; text-decoration: none; margin-right: 15px; }
-        a:hover { text-decoration: underline; }
-        
-        /* Highlight styling for the new text file link */
-        .intro-file-link { display: inline-block; margin-top: 5px; margin-bottom: 15px; font-weight: bold; color: #2e7d32; text-decoration: underline; }
-        .intro-file-link:hover { color: #1b5e20; }
+        /* Cyberpunk Blueprint Terminal Theme */
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #0f172a; 
+            background-image: 
+                linear-gradient(rgba(30, 41, 59, 0.5) 2px, transparent 2px),
+                linear-gradient(90deg, rgba(30, 41, 59, 0.5) 2px, transparent 2px);
+            background-size: 40px 40px;
+            background-position: center;
+            padding: 40px 20px; 
+            color: #e2e8f0; 
+            margin: 0;
+        }
 
-        /* New styling to make the disclaimer sentence look clean and muted */
-        .footer-disclaimer { font-size: 13px; color: #777; line-height: 1.5; font-style: italic; max-width: 600px; margin: 15px auto 0 auto; }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #38bdf8;
+            font-size: 2.5rem;
+            text-shadow: 0 0 20px rgba(56, 189, 248, 0.2);
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #94a3b8;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        /* Glassmorphism Effect for containers */
+        .main-box { 
+            background: rgba(30, 41, 59, 0.7); 
+            border: 1px solid #0ea5e9; 
+            border-radius: 12px; 
+            margin: 25px 0; 
+            padding: 20px; 
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.1); 
+            backdrop-filter: blur(8px);
+            transition: border-color 0.3s;
+        }
+        .main-box[open] {
+            border-color: #38bdf8;
+        }
+
+        .main-title { 
+            font-size: 20px; 
+            font-weight: bold; 
+            color: #38bdf8; 
+            cursor: pointer; 
+            outline: none; 
+            padding: 5px 0;
+        }
+
+        .sub-box { 
+            background: rgba(15, 23, 42, 0.6); 
+            border: 1px solid #334155; 
+            border-radius: 8px; 
+            margin: 15px 0 5px 0; 
+            padding: 15px; 
+        }
+
+        .sub-title { 
+            font-size: 16px; 
+            font-weight: bold; 
+            color: #34d399; 
+            cursor: pointer; 
+            outline: none; 
+        }
+
+        .links-list { 
+            list-style-type: none; 
+            padding-left: 5px; 
+            margin: 15px 0 0 0; 
+        }
+        .links-list li { 
+            margin: 15px 0 5px 0; 
+            font-size: 15px; 
+            font-weight: bold; 
+            color: #f1f5f9;
+        }
+
+        .item-row { 
+            margin-left: 0; 
+            font-weight: normal; 
+            margin-top: 8px; 
+            margin-bottom: 20px; 
+            background: rgba(255, 255, 255, 0.03);
+            padding: 8px 12px;
+            border-radius: 6px;
+            display: inline-block;
+        }
+
+        a { 
+            color: #38bdf8; 
+            text-decoration: none; 
+            margin-right: 20px; 
+            font-size: 14px;
+            transition: color 0.2s, text-shadow 0.2s;
+        }
+        a:hover { 
+            color: #7dd3fc;
+            text-shadow: 0 0 8px rgba(56, 189, 248, 0.6);
+        }
+        
+        .intro-file-link { 
+            display: inline-block; 
+            margin-top: 10px; 
+            margin-bottom: 25px; 
+            font-weight: bold; 
+            color: #34d399; 
+            text-decoration: none;
+            border: 1px solid #34d399;
+            padding: 8px 16px;
+            border-radius: 6px;
+            background: rgba(52, 211, 153, 0.1);
+            transition: background 0.2s;
+        }
+        .intro-file-link:hover { 
+            background: rgba(52, 211, 153, 0.2);
+            color: #6ee7b7;
+        }
+
+        .prereq-box {
+            background: rgba(245, 158, 11, 0.1);
+            border-left: 4px solid #f59e0b;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        .prereq-box strong {
+            color: #f59e0b;
+        }
+
+        .footer-disclaimer { 
+            font-size: 13px; 
+            color: #64748b; 
+            line-height: 1.5; 
+            font-style: italic; 
+            max-width: 600px; 
+            margin: 15px auto 0 auto; 
+        }
     </style>
 </head>
 <body>
+    <div class="container">
 
     <h1>Welcome to My Website</h1>
     <p>This is my interactive dashboard. Click the boxes below to expand them.</p>
