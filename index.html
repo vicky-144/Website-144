@@ -366,7 +366,7 @@
     <script>
         function openIntro() {
             document.getElementById('introTerminal').style.display = 'block';
-            fetch('intro_info.txt')
+            fetch('Introduction.txt')
                 .then(response => {
                     if(!response.ok) throw new Error('File not found');
                     return response.text();
