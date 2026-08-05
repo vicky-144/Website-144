@@ -21,7 +21,8 @@ This Guide is an Educational Roadmap Compiling High-Quality, Freely Available On
 
 Index-
 
- Preface
+ My Experiences - Make Sure You have Time to Read This One Since Some what Clumsy And Lengthy 
+ Preface To Website
  Prerequisites
  To-do List
  Contacts
@@ -32,11 +33,6 @@ Index-
 
 
 
-
-
-
-
-Welcome to Open_source_curriculum 
 
 
 Hi My name is Vikram Aditya and iam From Andhrapradesh,India
