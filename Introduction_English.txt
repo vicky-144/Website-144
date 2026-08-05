@@ -1,4 +1,6 @@
-A Note to Everyone - 	The Content in the Website is Redirecting links to Official platforms and Also i Post My Experience During My Learning Time. We Do not claim Any Free courses on internet as ours , We Are Just Providing Guidance.In Case of Any Kind of Legal Issues Kindly Contact Me Through My Email-id in Home Page Before Taking Action We will Correct Them 
+A Note to Everyone - 	The Content in the Website Has Redirecting links to Official platforms and Also i Post My Experience During My Learning Time. We Do not claim Any Free courses on internet as ours , We Are Just Providing Guidance.In Case of Any Kind of Legal Issues Kindly Contact Me Through My Email-id in Home Page Before Taking Action We will Correct Them. In Case Anything In Our Content is Disrespectful Pointing Out A Specific Organisation or Resource in Incorrect or unlawful Manner and Also If Any Wrong Information Found In Our Content.Kindly Send Email Regarding It We will Correct Them. Our intention is to Provide Guide Which we Haven't Got During Our learning Time and Also Share our Experiences And Ideas
+
+Email-id - vicky.at.my.website@gmail.com
 
 
 
@@ -15,14 +17,10 @@ INTRODUCTION TO THE WEBSITE AND IT'S USAGE,EVERYTHING
 
 This Guide is an Educational Roadmap Compiling High-Quality, Freely Available Online Resources To Help Students With Zero or Minimal knowledge in Programming. It is Designed Solely For Public Awareness and Non-Monetary, Open-Source Education.There are Many Other Free Open_Source Guides Namely OSSU-GIThub-CSE and so on .This Guide differs From Them By Providing My Own Experiences in Every Area Such As Mistakes Done By me , Way to think About Concepts To Understand Fastely Than Binging Watching Lecture Videos etc and So on.
 
-Note - In Case Anything In Our Content is Disrespectful Pointing Out A Specific Organisation or Resource and Also If Any Wrong Information Found In Our Content.Kindly Send Email Regarding It We will Correct Them.
-Email-id - vicky.at.my.website@gmail.com
-
 
 
 Index-
 
- Welcome And Introduction
  Preface
  Prerequisites
  To-do List
@@ -41,24 +39,28 @@ Index-
 Welcome to Open_source_curriculum 
 
 
-Hi My name is Vikram Aditya and iam From Telangana,India
+Hi My name is Vikram Aditya and iam From Andhrapradesh,India
  
-I Designed This Guide Specifically By Seeing So Many Rote-Learning,Academic but No Practical Experience Type Students Around Me.Of course The Subjects i Saw from 6th to 10th Standard and Subjects i am Explaining Here both Are of Different Knowledge. But In Terms Of Thinking Both Are Same.
+I Designed This Guide Specifically By Seeing So Many Rote-Learning, Academic but No Practical Experience Type Students Around Me Since After The End of Corona.  
 
 	1)They Blindly Follow Books,Teachers,Parents.
-		One May Ask Then Whom To Trust Completely.Answer is No one.Confirming and Verfifying is Required To Ensure You are in Right Path 
-		How to Verify? ***Internet*** 
-			Internet is the Vast Resource You Research in,Use it For Every Doubt You get as Primary Resource No Matter What doubt it is.Then After Approach Your Most Trusted Persons Parents Who Always Try Do Right Things For You For Your Enrichment.
+		One May Ask Then Whom To Trust Completely. Answer is No one. Confirming and Verfifying Every Important Thing Like Your Education,Career so on etc from 2 or 3 Trusted Sources is Required To Ensure You are in Right Path and Make You Successful.
+		How to Verify? 
+			Three Sources - Internet, Parents and Freinds, Random Strangers Online(reviews,Quora posts etc)
+			Internet is the Vast Resource You Research in, Use it For Every Doubt You get as Primary Resource No Matter What doubt it is. Then After Approach Your Most Trusted Persons, "Parents who always try to do the right thing to help you grow, thrive, and succeed in life."
+	Students Trust Parents -- Parents Pay Trust Institutes and Pay Huge Money to Them -- Institutes Need Money and Gives Hope to parents and students To Achieve Something (Like Top JEE rank,Which is Often Trend for Intermediate Students From Middle-Class Family)--Hence They Optimize The Coaching For Top-Scores Making it for Exam and not for Learning . Yet Majority of The Students End Up in Depression Like Us. Dont Know What to do After a Bad Performance (Like 6-hour JEE Advanced Exam in My case).
 
-	Students Trust Parents -- Parents Pay Money Institutes And Trust Them -- Institutes Need Money and Gives Guarantee To Achieve Something (Like JEE Coaching,Which is Often Trend for Intermediate Students From Middle-Class Family)--Hence They Optimize The Coaching For Top-Scores 
 
-
-	[JEE Coaching Optimization]  ?  Pattern Recognition ? Speed/Tricks ? Closed Problems
+	[JEE Coaching Optimization]  = Pattern Recognition   Speed/Tricks   Closed Problems
                                                                    VS.
-	[True Engineering Growth]   ?  First-Principles Math ? Experimentation ? Open-Ended Systems
+	[True Engineering Growth]  = First-Principles Math   Experimentation   Open-Ended Systems
 
 
 2)Academic Grading is More important Than Learning Actively
+	Blindly Copying out Notes Without Knowing it's Meaning
+	Incident - 
+			Iam From A College Which is often Nicknamed as Central Jail Due to its Strictness and Useless Rules It is Very famous Yet Only Few Students Like Know Some Dark Sides of it 
+			MASS COPYING - During Our Inter Practicals We were Given Slips To Write in Practical exams . The Coloured Water is Used , no Calculation of Kmno4 and nothing but just writing in Sheets for 3 hours. They Also Advised us Harshly to Hide those Slips From CCTV cameras another Incident is From The Students Side it is Micro Xeroxing of Entire "AKSHARA-2A 2B" Books 2or 3 rupees Per Page To Make Slips for Carrying Into Exams . Literally Thousand of money is used For the Private Xerox centre near College . Even The College Staff Knew About it
 3)Preparing For JEE to Join CSE Without Knowing How It is
 4)Studying just beacause it is like Mandatory Requirement Without The interest in Learning
 
